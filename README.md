@@ -21,5 +21,7 @@ Mongodb Database- For fast and efficient accessing and storing of data
 ->path
 
 # To use the application
+To install modules use the command: npm install
+To run the application use the command: npm start
 visit http://localhost:3000 to use as a User
 visit http://localhost:3000/admin to use as Admin
